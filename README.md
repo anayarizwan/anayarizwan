@@ -1,5 +1,5 @@
 # 💫 About Me:
-Anaya Butt - Web Developer<br>I am a Web Developer specializing in creating modern, responsive, and user-friendly web applications using HTML, CSS, JavaScript, and Python.
+I am a Web Developer skilled in building responsive and intuitive web applications using HTML, CSS, JavaScript. I have hands-on experience in front-end development, optimizing websites for performance and accessibility. I thrive on turning client requirements into seamless, interactive digital experiences.
 
 
 ## 🌐 Socials:
